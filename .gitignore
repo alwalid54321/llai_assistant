@@ -2,7 +2,28 @@
 __pycache__/
 *.py[cod]
 *$py.class
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Virtual Environment
+venv/
+ENV/
+
+# Flask
+instance/
+.webassets-cache
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
 # C extensions
 *.so
 
